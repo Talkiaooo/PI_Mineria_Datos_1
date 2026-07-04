@@ -1,2 +1,15 @@
-Paso,Descripción,Filas,Nulos,Retención (%)
-Limpieza Final,Normalización total y renombramiento a español,8115,560,99.45
+Timestamp,Paso,Descripción,Filas,Nulos
+2026-07-04 17:34:07,Carga,Lectura inicial,8160,753
+2026-07-04 17:34:07,Limpieza,Eliminación de valores nulos,7423,0
+2026-07-04 17:35:53,Carga,Lectura inicial,8160,753
+2026-07-04 17:35:53,Filtro,Filtrado de usuarios mayores de edad,7259,692
+2026-07-04 17:35:53,Limpieza,Eliminación de valores nulos,6583,0
+2026-07-04 17:36:28,Carga,Lectura inicial,8160,753
+2026-07-04 17:36:28,Filtro,Filtrado de usuarios mayores de edad,7259,692
+2026-07-04 17:36:28,Limpieza,Eliminación de valores nulos,6583,0
+2026-07-04 17:36:50,Carga,Lectura inicial,8160,753
+2026-07-04 17:36:50,Filtro,Filtrado de usuarios mayores de edad,7259,692
+2026-07-04 17:36:50,Limpieza,Eliminación de valores nulos,6583,0
+2026-07-04 17:37:07,Carga,Lectura inicial,8160,753
+2026-07-04 17:37:07,Filtro,Filtrado de usuarios mayores de edad,7259,692
+2026-07-04 17:37:07,Limpieza,Eliminación de valores nulos,6583,0
