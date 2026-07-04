@@ -2,11 +2,17 @@
 
 ## Información general
 Proyecto integrador de Minería de Datos 1. Análisis de comportamiento de usuarios de plataforma streaming.
+
 Integrantes: Francis Feijoo.
+
 Sede: Villa Ojo De Agua.
+
 Fecha: 04/07/2026.
+
 Enlace al repositorio: [Link a tu GitHub]
+
 Enlace a Streamlit Cloud: [Link a tu app]
+
 
 ## Objetivo del proyecto
 Analizar el comportamiento de usuarios de una plataforma de streaming mediante técnicas de minería de datos, identificando patrones de consumo, calidad de datos y reducción de dimensionalidad para facilitar la toma de decisiones.
