@@ -9,7 +9,7 @@ Sede: Villa Ojo De Agua.
 
 Fecha: 04/07/2026.
 
-Enlace al repositorio: [Link a tu GitHub]
+Enlace al repositorio: https://github.com/Talkiaooo/PI_Mineria_Datos_1)
 
 Enlace a Streamlit Cloud: [Link a tu app]
 
